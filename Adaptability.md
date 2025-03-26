@@ -21,7 +21,7 @@ The key is not to categorize but to understand and adapt communication to differ
 ### Psychological Techniques for Managing Change
 
 #### Reframing Anxiety
-Drawing from Harvard research, the transcript reveals a powerful technique: reinterpreting anxiety as excitement. By simply changing the narrative—saying "I am excited" instead of "I am anxious"—individuals can improve performance and emotional resilience.
+Drawing from Harvard research, the transcript reveals a powerful technique: reinterpreting anxiety as excitement. By simply changing the narrative saying "I am excited" instead of "I am anxious" individuals can improve performance and emotional resilience.
 
 #### Breaking Negative Thought Patterns
 When facing uncertainty, our minds tend to catastrophize. Two recommended methods can help:
