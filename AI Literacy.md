@@ -55,4 +55,4 @@
   - Fair use and copyright concerns
   - Use AI outputs as inspiration rather than copying and selling
 - **Algorithmic traceability**: Ensuring each AI decision can be understood by humans
-- The **alignment problem**: Ensuring AI systems share the same goals, context, and expectations as humans
+- **The alignment problem**: Ensuring AI systems share the same goals, context, and expectations as humans
