@@ -14,7 +14,7 @@ Don't accept vague reasons for change. Skip past mission statements and find spe
 
 ## Your Value as a BA
 
-You represent change to stakeholders. Your discussions with customers help create solid requirements.
+You represent a change to stakeholders. Your discussions with customers help create solid requirements.
 
 ## Working with Stakeholders
 
@@ -40,7 +40,7 @@ Ask:
 - How long do tasks take?
 - Where are the delays?
 - Are processes efficient?
-- Do they give competitive advantage?
+- Do they give a competitive advantage?
 
 ## Value Categories
 
