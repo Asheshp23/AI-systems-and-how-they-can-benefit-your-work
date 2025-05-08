@@ -2,3 +2,4 @@
 2. **Conflict Mitigation**
 3. **Adaptability** 
 4. **Process Optimization**
+5. **Innovative Thinking**
