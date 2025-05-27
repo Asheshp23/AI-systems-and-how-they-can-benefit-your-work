@@ -5,3 +5,4 @@
 5. **Innovative Thinking**
 6. **Public Speaking**
 7. **Solution-Based Selling**
+8. **Customer Engagement & Support**
